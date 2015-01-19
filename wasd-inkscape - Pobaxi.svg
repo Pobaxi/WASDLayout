@@ -14,8 +14,8 @@
    height="540"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wasd-inkscape-105-10.15.2014.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="wasd-inkscape - Pobaxi.svg">
   <defs
      id="defs4">
     <symbol
@@ -80,15 +80,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68091765"
-     inkscape:cx="952.24664"
-     inkscape:cy="-295.9657"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="370.0267"
+     inkscape:cy="277.57407"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="svg2"
      showgrid="false"
      units="in"
-     inkscape:window-width="2560"
-     inkscape:window-height="1418"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -107,7 +107,30 @@
      inkscape:snap-center="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="284.60336,249.87981"
+       id="guide14733" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="650.40905,182.65792"
+       id="guide14735" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="634.43795,165.42474"
+       id="guide14737" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="135.75,194.6875"
+       id="guide14739" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="143.69736,157.67929"
+       id="guide14744" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -3764,7 +3787,8 @@
      inkscape:groupmode="layer"
      id="layer32"
      inkscape:label="Key Grids (Not Printed)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        style="fill-rule:evenodd;display:inline"
        id="_105_x0020_-_x0020_Key_x0020_Grids"
@@ -15902,15 +15926,15 @@
      inkscape:groupmode="layer"
      id="layer35"
      inkscape:label="Alpha - German"
-     style="display:none">
+     style="display:inline">
     <text
        id="text19507"
        x="50.783234"
        y="182.65585"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="50.783234"
          y="182.65585"
          id="tspan19509">^</tspan>
@@ -15919,10 +15943,10 @@
        id="text19511"
        x="117.40355"
        y="182.42508"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="117.40355"
          y="182.42508"
          id="tspan19513">1</tspan>
@@ -15931,10 +15955,10 @@
        id="text19515"
        x="186.12738"
        y="182.42508"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="186.12738"
          y="182.42508"
          id="tspan19517">2</tspan>
@@ -15943,10 +15967,10 @@
        id="text19519"
        x="253.46144"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="253.46144"
          y="182.24524"
          id="tspan19521">3</tspan>
@@ -15955,10 +15979,10 @@
        id="text19523"
        x="321.7312"
        y="182.65585"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="321.7312"
          y="182.65585"
          id="tspan19525">4</tspan>
@@ -15967,10 +15991,10 @@
        id="text19527"
        x="388.52499"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="388.52499"
          y="182.24524"
          id="tspan19529">5</tspan>
@@ -15979,10 +16003,10 @@
        id="text19531"
        x="456.11816"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="456.11816"
          y="182.24524"
          id="tspan19533">6</tspan>
@@ -15991,10 +16015,10 @@
        id="text19535"
        x="523.51868"
        y="182.42508"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="523.51868"
          y="182.42508"
          id="tspan19537">7</tspan>
@@ -16003,10 +16027,10 @@
        id="text19539"
        x="591.13843"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="591.13843"
          y="182.24524"
          id="tspan19541">8</tspan>
@@ -16015,10 +16039,10 @@
        id="text19543"
        x="658.659"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="658.659"
          y="182.24524"
          id="tspan19545">9</tspan>
@@ -16027,10 +16051,10 @@
        id="text19547"
        x="726.19238"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="726.19238"
          y="182.24524"
          id="tspan19549">0</tspan>
@@ -16039,10 +16063,10 @@
        id="text19551"
        x="793.23291"
        y="182.2601"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="793.23291"
          y="182.2601"
          id="tspan19553">ß</tspan>
@@ -16051,10 +16075,10 @@
        id="text19555"
        x="863.10529"
        y="182.80872"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
          x="863.10529"
          y="182.80872"
          id="tspan19557">´</tspan>
@@ -16063,10 +16087,10 @@
        id="text19559"
        x="50.799847"
        y="156.69249"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="50.799847"
          y="156.69249"
          id="tspan19561">°</tspan>
@@ -16075,10 +16099,10 @@
        id="text19563"
        x="120.17547"
        y="156.64503"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="120.17547"
          y="156.64503"
          id="tspan19565">!</tspan>
@@ -16087,10 +16111,10 @@
        id="text19567"
        x="186.22192"
        y="156.88083"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="186.22192"
          y="156.88083"
          id="tspan19569">&quot;</tspan>
@@ -16099,10 +16123,10 @@
        id="text19571"
        x="253.96025"
        y="156.58731"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="253.96025"
          y="156.58731"
          id="tspan19573">§</tspan>
@@ -16111,10 +16135,10 @@
        id="text19575"
        x="321.75104"
        y="157.60657"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="321.75104"
          y="157.60657"
          id="tspan19577">$</tspan>
@@ -16123,10 +16147,10 @@
        id="text19579"
        x="388.28534"
        y="156.79727"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="388.28534"
          y="156.79727"
          id="tspan19581">%</tspan>
@@ -16135,10 +16159,10 @@
        id="text19583"
        x="456.04349"
        y="156.58731"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="456.04349"
          y="156.58731"
          id="tspan19585">&amp;</tspan>
@@ -16147,10 +16171,10 @@
        id="text19587"
        x="524.22314"
        y="156.58731"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="524.22314"
          y="156.58731"
          id="tspan19589">/</tspan>
@@ -16159,10 +16183,10 @@
        id="text19591"
        x="591.96997"
        y="156.79727"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="591.96997"
          y="156.79727"
          id="tspan19593">(</tspan>
@@ -16171,10 +16195,10 @@
        id="text19595"
        x="659.75293"
        y="156.79727"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="659.75293"
          y="156.79727"
          id="tspan19597">)</tspan>
@@ -16183,10 +16207,10 @@
        id="text19599"
        x="726.19238"
        y="156.45245"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="726.19238"
          y="156.45245"
          id="tspan19601">=</tspan>
@@ -16195,10 +16219,10 @@
        id="text19603"
        x="793.68256"
        y="156.58731"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="793.68256"
          y="156.58731"
          id="tspan19605">?</tspan>
@@ -16207,454 +16231,397 @@
        id="text19607"
        x="863.13007"
        y="156.69312"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
          x="863.13007"
          y="156.69312"
          id="tspan19609">`</tspan>
     </text>
     <text
-       id="text19611"
-       x="152.13919"
-       y="224.02791"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="152.13919"
-         y="224.02791"
-         id="tspan19613">Q</tspan>
-    </text>
-    <text
-       id="text19615"
-       x="220.14267"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="220.14267"
-         y="223.84808"
-         id="tspan19617">W</tspan>
-    </text>
-    <text
-       id="text19619"
-       x="286.67197"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="286.67197"
-         y="223.84808"
-         id="tspan19621">E</tspan>
-    </text>
-    <text
-       id="text19623"
-       x="354.20358"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="354.20358"
-         y="223.84808"
-         id="tspan19625">R</tspan>
-    </text>
-    <text
-       id="text19627"
-       x="422.57446"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="422.57446"
-         y="223.84808"
-         id="tspan19629">T</tspan>
-    </text>
-    <text
        id="text19631"
-       x="490.15491"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="498.95654"
+       y="239.91397"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911986,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="490.15491"
-         y="223.84808"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="498.95654"
+         y="239.91397"
          id="tspan19633">Z</tspan>
     </text>
     <text
        id="text19635"
-       x="556.80444"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="565.1441"
+       y="239.76749"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911986,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="556.80444"
-         y="223.84808"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="565.1441"
+         y="239.76749"
          id="tspan19637">U</tspan>
     </text>
     <text
        id="text19639"
-       x="624.12946"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="637.97034"
+       y="239.91397"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911986,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="624.12946"
-         y="223.84808"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="637.97034"
+         y="239.91397"
          id="tspan19641">I</tspan>
     </text>
     <text
        id="text19643"
-       x="692.33405"
-       y="224.02791"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="699.4389"
+       y="239.91983"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911986,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="692.33405"
-         y="224.02791"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="699.4389"
+         y="239.91983"
          id="tspan19645">O</tspan>
     </text>
     <text
        id="text19647"
-       x="759.43445"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="768.0094"
+       y="240.00389"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="759.43445"
-         y="223.84808"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="768.0094"
+         y="240.00389"
          id="tspan19649">P</tspan>
     </text>
     <text
        id="text19651"
-       x="169.65564"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="177.4556"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="169.65564"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="177.4556"
+         y="307.35376"
          id="tspan19653">A</tspan>
     </text>
     <text
        id="text19655"
-       x="236.47914"
-       y="291.46851"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="245.01207"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="236.47914"
-         y="291.46851"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="245.01207"
+         y="307.35376"
          id="tspan19657">S</tspan>
     </text>
     <text
        id="text19659"
-       x="303.5481"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="306.47015"
+       y="307.12259"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="303.5481"
-         y="291.28867"
-         id="tspan19661">D</tspan>
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="306.47015"
+         y="307.12259"
+         id="tspan19661">D<tspan
+   style="font-size:5px;baseline-shift:sub"
+   id="tspan14731">lash</tspan>
+</tspan>
     </text>
     <text
        id="text19663"
-       x="371.00851"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="380.28174"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="371.00851"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="380.28174"
+         y="307.35376"
          id="tspan19665">F</tspan>
     </text>
     <text
        id="text19667"
-       x="438.97131"
-       y="291.46851"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="446.38141"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="438.97131"
-         y="291.46851"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="446.38141"
+         y="307.35376"
          id="tspan19669">G</tspan>
     </text>
     <text
        id="text19671"
-       x="506.08691"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="514.45752"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="506.08691"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="514.45752"
+         y="307.35376"
          id="tspan19673">H</tspan>
     </text>
     <text
        id="text19675"
-       x="574.41962"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="585.24066"
+       y="307.20728"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="574.41962"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="585.24066"
+         y="307.20728"
          id="tspan19677">J</tspan>
     </text>
     <text
        id="text19679"
-       x="641.27179"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="649.33057"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="641.27179"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="649.33057"
+         y="307.35376"
          id="tspan19681">K</tspan>
     </text>
     <text
        id="text19683"
-       x="708.80542"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="718.53357"
+       y="307.35376"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="708.80542"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="718.53357"
+         y="307.35376"
          id="tspan19685">L</tspan>
     </text>
     <text
        id="text19687"
-       x="203.44637"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="211.38361"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="203.44637"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="211.38361"
+         y="374.25403"
          id="tspan19689">Y</tspan>
     </text>
     <text
        id="text19691"
-       x="270.95917"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="278.81702"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="270.95917"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="278.81702"
+         y="374.25403"
          id="tspan19693">X</tspan>
     </text>
     <text
        id="text19695"
-       x="337.80789"
-       y="358.90912"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="345.56711"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="337.80789"
-         y="358.90912"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="345.56711"
+         y="374.25403"
          id="tspan19697">C</tspan>
     </text>
     <text
        id="text19699"
-       x="406.02805"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="413.99695"
+       y="374.34396"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="406.02805"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="413.99695"
+         y="374.34396"
          id="tspan19701">V</tspan>
     </text>
     <text
        id="text19703"
-       x="472.52698"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="481.13925"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="472.52698"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="481.13925"
+         y="374.25403"
          id="tspan19705">B</tspan>
     </text>
     <text
        id="text19707"
-       x="540.0174"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="548.34637"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="540.0174"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="548.34637"
+         y="374.25403"
          id="tspan19709">N</tspan>
     </text>
     <text
        id="text19711"
-       x="607.56561"
-       y="358.72925"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="614.52222"
+       y="374.25403"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="607.56561"
-         y="358.72925"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="614.52222"
+         y="374.25403"
          id="tspan19713">M</tspan>
     </text>
     <text
        id="text19715"
-       x="675.68988"
-       y="383.0723"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="689.95782"
+       y="376.42847"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-         x="675.68988"
-         y="383.0723"
+         style="font-size:16px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         x="689.95782"
+         y="376.42847"
          id="tspan19717">,</tspan>
     </text>
     <text
        id="text19719"
-       x="743.34393"
-       y="384.84164"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="757.28186"
+       y="376.45212"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-         x="743.34393"
-         y="384.84164"
+         style="font-size:16px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         x="757.28186"
+         y="376.45212"
          id="tspan19721">.</tspan>
     </text>
     <text
        id="text19723"
-       x="811.00037"
-       y="384.68979"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="824.41864"
+       y="379.09659"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="811.00037"
-         y="384.68979"
+         style="font-size:16px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="824.41864"
+         y="379.09659"
          id="tspan19725">-</tspan>
     </text>
     <text
        id="text19727"
-       x="776.71552"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="783.84222"
+       y="308.94751"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="776.71552"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="783.84222"
+         y="308.94751"
          id="tspan19729">Ö</tspan>
     </text>
     <text
        id="text19731"
-       x="844.99054"
-       y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="852.77197"
+       y="309.09399"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="844.99054"
-         y="291.28867"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="852.77197"
+         y="309.09399"
          id="tspan19733">Ä</tspan>
     </text>
     <text
        id="text19735"
-       x="675.75354"
-       y="355.29953"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="689.58875"
+       y="365.32825"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-         x="675.75354"
-         y="355.29953"
+         style="font-size:16px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         x="689.58875"
+         y="365.32825"
          id="tspan19737">;</tspan>
     </text>
     <text
        id="text19739"
-       x="743.34393"
-       y="355.52957"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="756.85999"
+       y="365.31818"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-         x="743.34393"
-         y="355.52957"
+         style="font-size:16px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         x="756.85999"
+         y="365.31818"
          id="tspan19741">:</tspan>
     </text>
     <text
        id="text19743"
-       x="811.8996"
-       y="357.1886"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="822.66864"
+       y="354.8699"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="811.8996"
-         y="357.1886"
+         style="font-size:16px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="822.66864"
+         y="354.8699"
          id="tspan19745">_</tspan>
     </text>
     <text
        id="text19747"
        x="912.37451"
        y="291.28867"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
          x="912.37451"
          y="291.28867"
          id="tspan19749">'</tspan>
     </text>
     <text
        id="text19751"
-       x="164.79529"
-       y="383.86249"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="164.22708"
+       y="378.6149"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="164.79529"
-         y="383.86249"
+         style="font-size:16px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="164.22708"
+         y="378.6149"
          id="tspan19753">|</tspan>
     </text>
     <text
        id="text19755"
        x="213.52776"
        y="182.78537"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="213.52776"
          y="182.78537"
          id="tspan19757">²</tspan>
@@ -16663,34 +16630,34 @@
        id="text19759"
        x="281.06287"
        y="182.65585"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="281.06287"
          y="182.65585"
          id="tspan19761">³</tspan>
     </text>
     <text
        id="text19763"
-       x="826.93835"
-       y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="835.28864"
+       y="241.50772"
+       style="font-size:24px;fill:#000000"
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="826.93835"
-         y="223.84808"
+         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="835.28864"
+         y="241.50772"
          id="tspan19765">Ü</tspan>
     </text>
     <text
        id="text19767"
        x="912.51178"
        y="317.16138"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="912.51178"
          y="317.16138"
          id="tspan19769">#</tspan>
@@ -16699,58 +16666,34 @@
        id="text19771"
        x="821.88336"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="821.88336"
          y="182.24524"
          id="tspan19773">\</tspan>
     </text>
     <text
-       id="text19775"
-       x="311.6618"
-       y="249.62836"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="311.6618"
-         y="249.62836"
-         id="tspan19777">€</tspan>
-    </text>
-    <text
-       id="text19779"
-       x="171.13159"
-       y="247.16167"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="171.13159"
-         y="247.16167"
-         id="tspan19781">@</tspan>
-    </text>
-    <text
        id="text19783"
-       x="632.89221"
-       y="384.74686"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="635.96527"
+       y="378.3923"
+       style="font-size:8px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="632.89221"
-         y="384.74686"
+         style="font-size:8px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="635.96527"
+         y="378.3923"
          id="tspan19785">µ</tspan>
     </text>
     <text
        id="text19787"
        x="551.255"
        y="182.42508"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="551.255"
          y="182.42508"
          id="tspan19789">{</tspan>
@@ -16759,10 +16702,10 @@
        id="text19791"
        x="618.87476"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="618.87476"
          y="182.24524"
          id="tspan19793">[</tspan>
@@ -16771,10 +16714,10 @@
        id="text19795"
        x="686.39526"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="686.39526"
          y="182.24524"
          id="tspan19797">]</tspan>
@@ -16783,10 +16726,10 @@
        id="text19799"
        x="753.92877"
        y="182.24524"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="753.92877"
          y="182.24524"
          id="tspan19801">}</tspan>
@@ -16795,10 +16738,10 @@
        id="text19803"
        x="895.19287"
        y="223.84808"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="895.19287"
          y="223.84808"
          id="tspan19805">*</tspan>
@@ -16807,10 +16750,10 @@
        id="text19807"
        x="895.19287"
        y="249.86566"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="895.19287"
          y="249.86566"
          id="tspan19809">+</tspan>
@@ -16819,36 +16762,34 @@
        id="text19811"
        x="918.68805"
        y="249.86566"
-       style="font-size:14.98679829px;fill:#000000"
+       style="font-size:16.00000036px;fill:#000000"
        transform="scale(0.99911983,1.0008809)">
       <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         style="font-size:16.00000036px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
          x="918.68805"
          y="249.86566"
          id="tspan19813">~</tspan>
     </text>
-    <text
-       id="text19815"
-       x="135.84505"
-       y="358.76785"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-size:14.98679829px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="135.84505"
-         y="358.76785"
-         id="tspan19817">&gt;</tspan>
-    </text>
+    <g
+       transform="matrix(0.99911987,0,0,1.0008809,-0.234375,0.046875)"
+       style="font-size:16px;fill:#000000"
+       id="text19815">
+      <path
+         d="m 143.70432,353.75861 -7.58594,3.24218 0,-1.39843 6.00781,-2.49219 -6.00781,-2.46875 0,-1.39844 7.58594,3.20313 z"
+         style="font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         id="path14742"
+         inkscape:connector-curvature="0" />
+    </g>
     <text
        id="text19819"
-       x="135.66946"
-       y="384.74686"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       x="135.00859"
+       y="383.74771"
+       style="font-size:16px;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
       <tspan
-         style="font-size:12.48899841px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="135.66946"
-         y="384.74686"
+         style="font-size:16px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+         x="135.00859"
+         y="383.74771"
          id="tspan19821">&lt;</tspan>
     </text>
     <text
