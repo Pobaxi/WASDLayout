@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="wasd-inkscape - Pobaxi.svg">
+   sodipodi:docname="wasd-inkscape - Pobaxi.svg"
+   inkscape:export-filename="G:\PythonProjects\git\WASDLayout\wasd-inkscape - Pobaxi.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <symbol
@@ -80,11 +83,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="382.49351"
-     inkscape:cy="317.36021"
+     inkscape:zoom="11.313708"
+     inkscape:cx="362.16419"
+     inkscape:cy="250.18507"
      inkscape:document-units="px"
-     inkscape:current-layer="layer22"
+     inkscape:current-layer="layer35"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -139,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16325,17 +16328,17 @@
     </text>
     <text
        id="text19659"
-       x="306.47015"
-       y="307.12259"
+       x="311.53363"
+       y="307.35376"
        style="font-size:24px;fill:#000000"
        transform="scale(0.99911987,1.0008809)">
       <tspan
          style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-         x="306.47015"
-         y="307.12259"
+         x="311.53363"
+         y="307.35376"
          id="tspan19661">D<tspan
    style="font-size:5px;baseline-shift:sub"
-   id="tspan14731">lash</tspan>
+   id="tspan14731" />
 </tspan>
     </text>
     <text
@@ -16924,6 +16927,18 @@
          y="426.22894"
          id="tspan19865">,</tspan>
     </text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.98679829px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       x="327.29999"
+       y="307.62451"
+       id="text7127"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7129"
+         x="327.29999"
+         y="307.62451"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">lash</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
