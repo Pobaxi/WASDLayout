@@ -107,11 +107,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="234.468"
-     inkscape:cy="308.81954"
+     inkscape:zoom="1"
+     inkscape:cx="271.08451"
+     inkscape:cy="363.81954"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer29"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -23673,7 +23673,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="my OS key">
+     inkscape:label="my OS key"
+     style="display:inline">
     <g
        transform="matrix(0.03771857,0,0,0.03771857,144.87415,420.94408)"
        style="display:inline"
@@ -23685,7 +23686,7 @@
          style="fill:#8c9c9c;fill-opacity:1;stroke:none;display:inline" />
       <path
          transform="matrix(2.9375,0,0,2.35,-656.30699,-184.49995)"
-         d="m 440,220 c 0,55.22847 -35.81722,100 -80,100 -44.18278,0 -80,-44.77153 -80,-100 0,-55.22847 35.81722,-100 80,-100 44.18278,0 80,44.77153 80,100 z"
+         d="m 440,220 a 80,100 0 1 1 -160,0 80,100 0 1 1 160,0 z"
          sodipodi:ry="100"
          sodipodi:rx="80"
          sodipodi:cy="220"
@@ -23705,7 +23706,7 @@
          style="fill:#8c9c9c;fill-opacity:1;stroke:none;display:inline" />
       <path
          transform="matrix(2.9375,0,0,2.35,-656.30699,-184.49995)"
-         d="m 440,220 c 0,55.22847 -35.81722,100 -80,100 -44.18278,0 -80,-44.77153 -80,-100 0,-55.22847 35.81722,-100 80,-100 44.18278,0 80,44.77153 80,100 z"
+         d="m 440,220 a 80,100 0 1 1 -160,0 80,100 0 1 1 160,0 z"
          sodipodi:ry="100"
          sodipodi:rx="80"
          sodipodi:cy="220"
@@ -23743,9 +23744,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Q">
+     inkscape:label="Q"
+     style="display:inline">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 172.4423,249.888 c 7.6708,-7.28541 15.48973,-14.087 0.0459,-26.61634"
        id="path3007"
        inkscape:connector-curvature="0"
@@ -23757,7 +23759,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;"
+       style="fill:#000000;fill-opacity:1;stroke:none"
        d="m 167.94729,230.06578 1.74064,-5.89782 -4.66333,4.00843 3.86513,-4.78277 -5.8423,1.91873 5.4012,-2.93957 -13.20776,-0.46308 13.19089,-0.64887 -5.48788,-2.77439 5.89782,1.74063 -4.00843,-4.66332 4.78276,3.86513 -1.91873,-5.84231 2.93958,5.40121 0.46308,-6.13186 0.64887,6.11499 2.77438,-5.48789 -1.74063,5.89783 4.66333,-4.00843 -3.86514,4.78276 5.84231,-1.91873 -5.4012,2.93958 10.07415,0.46308 -10.05728,0.64886 5.48788,2.77439 -5.89782,-1.74063 4.00843,4.66333 -4.78277,-3.86514 1.91874,5.84231 -2.93958,-5.4012 -0.46308,10.68065 -0.64887,-10.66378 z"
        id="path3016"
        inkscape:connector-curvature="0"
@@ -23963,5 +23965,177 @@
        id="path3795-9-0-8"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        sodipodi:type="arc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer29"
+     inkscape:label="F Keys">
+    <text
+       id="text4751-8-9"
+       x="861.88586"
+       y="72.140816"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="861.88586"
+         y="72.140816"
+         sodipodi:role="line"
+         id="tspan4753-8-54">F10</tspan>
+    </text>
+    <text
+       id="text4751-8-9-4"
+       x="929.48956"
+       y="72.140823"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="929.48956"
+         y="72.140823"
+         sodipodi:role="line"
+         id="tspan4753-8-54-1">F11</tspan>
+    </text>
+    <text
+       id="text4751-8-9-1"
+       x="996.91309"
+       y="72.140816"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="996.91309"
+         y="72.140816"
+         sodipodi:role="line"
+         id="tspan4753-8-54-3">F12</tspan>
+    </text>
+    <text
+       id="text4751-8-9-8"
+       x="799.30182"
+       y="72.140816"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="799.30182"
+         y="72.140816"
+         sodipodi:role="line"
+         id="tspan4753-8-54-7">F9</tspan>
+    </text>
+    <text
+       id="text4751-8-9-42"
+       x="698.3241"
+       y="72.140816"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="698.3241"
+         y="72.140816"
+         sodipodi:role="line"
+         id="tspan4753-8-54-77">F8</tspan>
+    </text>
+    <text
+       id="text4751-8-9-9"
+       x="630.77863"
+       y="72.224312"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="630.77863"
+         y="72.224312"
+         sodipodi:role="line"
+         id="tspan4753-8-54-31">F7</tspan>
+    </text>
+    <text
+       id="text4751-8-9-98"
+       x="563.22437"
+       y="72.140816"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="563.22437"
+         y="72.140816"
+         sodipodi:role="line"
+         id="tspan4753-8-54-6">F6</tspan>
+    </text>
+    <text
+       id="text4751-8-9-5"
+       x="495.61301"
+       y="72.114449"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="495.61301"
+         y="72.114449"
+         sodipodi:role="line"
+         id="tspan4753-8-54-0">F5</tspan>
+    </text>
+    <text
+       id="text4751-8-9-2"
+       x="394.71002"
+       y="72.224312"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="394.71002"
+         y="72.224312"
+         sodipodi:role="line"
+         id="tspan4753-8-54-8">F4</tspan>
+    </text>
+    <text
+       id="text4751-8-9-6"
+       x="327.125"
+       y="72.136421"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="327.125"
+         y="72.136421"
+         sodipodi:role="line"
+         id="tspan4753-8-54-02">F3</tspan>
+    </text>
+    <text
+       id="text4751-8-9-48"
+       x="259.63226"
+       y="72.250679"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="259.63226"
+         y="72.250679"
+         sodipodi:role="line"
+         id="tspan4753-8-54-65">F2</tspan>
+    </text>
+    <text
+       id="text4751-8-9-0"
+       x="193.34142"
+       y="72.250679"
+       style="font-size:18px;fill:#000000;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="193.34142"
+         y="72.250679"
+         sodipodi:role="line"
+         id="tspan4753-8-54-9">F1</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       x="50.403927"
+       y="71.743927"
+       id="text7430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7432"
+         x="50.403927"
+         y="71.743927">ESC</tspan></text>
   </g>
 </svg>
